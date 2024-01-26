@@ -31,3 +31,4 @@ Estos son lo cursos que he realizado:<br>
 <code><a href="https://github.com/miusarname/Cursos-Realizados/tree/main/php/projects"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"> </a></code>
 <code><a href="https://github.com/miusarname/Cursos-Realizados/tree/main/python"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </a></code>
 
+
